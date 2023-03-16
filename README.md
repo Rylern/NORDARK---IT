@@ -3,7 +3,7 @@
 ## Development
 
 * Download [Unity](https://unity.com/) **2022.2.0f1**.
-* Open the repository with Unity.
+* Open the repository with Unity and the *Assets/Scene/Nordark* scene.
 * If you export the project for Windows 64 bit, some computers might not recognize the *sqlite3.dll* file shipped with the executable. To fix this, replace the *NORDARK\NORDARK_Data\Plugins\x86_64\sqlite3.dll* file of the exported project with the *AdditionalResources\sqlite3.dll* file of the repository.
 
 ### Assets organization
